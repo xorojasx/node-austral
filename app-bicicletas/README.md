@@ -2,9 +2,13 @@
 Proyecto desde Template de Arsha.
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://github.com/xorojasx/node-austral/tree/main/app-bicicletas/)
+Si quieres ver el funcionamiento del proyecto, visita el [Demo del proyecto](https://xorojasx.github.io/node-austral/)
 
-## How to clone
+## Acceso al repositorio
+Para ver los archivos del repositorio, ir a [repositorio](https://github.com/xorojasx/node-austral/tree/main/app-bicicletas/)
+
+
+## Navegar en el proyecto
 Para ver el funcionamiento de bicicletas.
 * Ir a Drop Down -> Bicicletas
 * El mapa se muestra en la parte inferior
