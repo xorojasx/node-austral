@@ -5,22 +5,12 @@ Proyecto desde Template de Arsha.
 If you want to see the demo of this proyect deployed, you can visit [Demo of the proyect](https://github.com/xorojasx/node-austral/tree/main/app-bicicletas/)
 
 ## How to clone
-If you have special requirements, you have to list it step by step.
-* This is the first step
-* Then you have to do this
-* Finally do this
+Para ver el funcionamiento de bicicletas.
+* Ir a Drop Down -> Bicicletas
+* El mapa se muestra en la parte inferior
+* Las rutas para la API son:
+  * http://localhost:3001/api/bicicletas
+  * http://localhost:3001/api/bicicletas/create
+  * http://localhost:3001/api/bicicletas/delete
 
-Markdown has enumation and nested lists.
 
-## Installation
-To install and run this proyect just type and execute
-```bash
-npm install
-```
-## Preview
-Insert here an image of the preview if your project has one. The image can be into the project, you have to indicate the route and look like this.
-
-![](/preview.jpg)
-
-### Notes
-If you want to learn all about markdown i recommend you visit the site [markdown.es](https://markdown.es/sintaxis-markdown/)
